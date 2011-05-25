@@ -12,7 +12,7 @@ module HotBody
 
 end
 
-class ApplicationHelper
+module ApplicationHelper
   include HotBody
 end
 
