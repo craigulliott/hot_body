@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "hot_body"
   gem.homepage = "http://github.com/craigulliott/hot_body"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Adds a body_id and body_class helper method for utilitarian CSS and JS"
+  gem.description = "Adds a body_id and body_class helper method for utilitarian CSS and JS"
   gem.email = "craigulliott@gmail.com"
   gem.authors = ["Craig Ulliott"]
   # dependencies defined in Gemfile
